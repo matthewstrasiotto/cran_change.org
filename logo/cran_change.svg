@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="91.055054mm"
+   height="21.691698mm"
+   viewBox="0 0 91.055054 21.691698"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="131.99897"
-     inkscape:cy="318.7501"
+     inkscape:cx="59.583793"
+     inkscape:cy="33.419767"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -38,11 +38,11 @@
      inkscape:window-y="1072"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="88.635415,221.78274"
+       position="69.475568,21.968089"
        orientation="0,-1"
        id="guide862" />
     <sodipodi:guide
-       position="87.879462,200.04911"
+       position="68.719615,0.23445866"
        orientation="0,-1"
        id="guide864" />
   </sodipodi:namedview>
@@ -62,7 +62,8 @@
      inkscape:label="CRAN"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-19.159849,-75.493651)">
     <text
        xml:space="preserve"
        style="font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
@@ -82,7 +83,7 @@
      id="layer2"
      inkscape:label="CHANGE"
      style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(-19.159849,-75.493651)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.264583"
