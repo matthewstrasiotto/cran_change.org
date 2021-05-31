@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="94.645828mm"
+   width="92.944939mm"
    height="21.691698mm"
-   viewBox="0 0 94.645829 21.691698"
+   viewBox="0 0 92.944939 21.691698"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -24,10 +24,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="59.583794"
+     inkscape:cx="59.583795"
      inkscape:cy="33.419767"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="true"
@@ -38,11 +38,11 @@
      inkscape:window-y="1072"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="69.475564,21.968088"
+       position="69.475561,21.968087"
        orientation="0,-1"
        id="guide862" />
     <sodipodi:guide
-       position="68.719611,0.23445875"
+       position="68.719608,0.23445884"
        orientation="0,-1"
        id="guide864" />
   </sodipodi:namedview>
@@ -63,7 +63,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-19.159849,-75.493651)">
+     transform="translate(-19.159849,-75.493651)"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.264583"
@@ -101,13 +102,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="77.10714"
+       x="75.40625"
        y="94.494041"
        id="change-ge"
        inkscape:label="#change-ge"><tspan
          sodipodi:role="line"
          id="tspan844"
-         x="77.10714"
+         x="75.40625"
          y="94.494041"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f40042;fill-opacity:1;stroke-width:0.264583">GE</tspan></text>
     <text
