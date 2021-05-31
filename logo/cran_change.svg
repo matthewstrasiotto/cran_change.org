@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="91.055054mm"
+   width="94.645828mm"
    height="21.691698mm"
-   viewBox="0 0 91.055054 21.691698"
+   viewBox="0 0 94.645829 21.691698"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="59.583793"
+     inkscape:cx="59.583794"
      inkscape:cy="33.419767"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -38,11 +38,11 @@
      inkscape:window-y="1072"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="69.475568,21.968089"
+       position="69.475564,21.968088"
        orientation="0,-1"
        id="guide862" />
     <sodipodi:guide
-       position="68.719615,0.23445866"
+       position="68.719611,0.23445875"
        orientation="0,-1"
        id="guide864" />
   </sodipodi:namedview>
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,16 +66,18 @@
      transform="translate(-19.159849,-75.493651)">
     <text
        xml:space="preserve"
-       style="font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       style="font-size:25.4px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.264583"
        x="18.142857"
        y="94.494049"
-       id="text835"><tspan
+       id="cran-background"
+       inkscape:label="#cran-background"><tspan
          sodipodi:role="line"
          id="tspan833"
          x="18.142857"
          y="94.494049"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';fill:#95989d;fill-opacity:1;stroke-width:0.264583">C<tspan
-   style="fill:#2569bb;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';fill:#95989d;fill-opacity:1;stroke-width:0.264583"
+         dx="0 0 2.0799999">C<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2569bb;fill-opacity:1"
    id="tspan837">R</tspan>AN</tspan></text>
   </g>
   <g
@@ -83,7 +85,8 @@
      id="layer2"
      inkscape:label="CHANGE"
      style="display:inline"
-     transform="translate(-19.159849,-75.493651)">
+     transform="translate(-19.159849,-75.493651)"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:0.264583"
@@ -98,25 +101,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="73.516365"
+       x="77.10714"
        y="94.494041"
-       id="text846"><tspan
+       id="change-ge"
+       inkscape:label="#change-ge"><tspan
          sodipodi:role="line"
          id="tspan844"
-         x="73.516365"
+         x="77.10714"
          y="94.494041"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f40042;fill-opacity:1;stroke-width:0.264583">GE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.1298px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f40042;fill-opacity:1;stroke-width:0.240934"
-       x="25.814407"
-       y="102.69908"
-       id="text852"
-       transform="scale(1.0981547,0.91061854)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.102px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f40042;fill-opacity:1;stroke-width:0.271894"
+       x="25.778971"
+       y="103.75415"
+       id="change-h"
+       transform="scale(1.0981547,0.91061852)"
+       inkscape:label="#change-h"><tspan
          sodipodi:role="line"
          id="tspan850"
-         x="25.814407"
-         y="102.69908"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.1298px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f40042;fill-opacity:1;stroke-width:0.240934">H</tspan></text>
+         x="25.778971"
+         y="103.75415"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.102px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f40042;fill-opacity:1;stroke-width:0.271894">H</tspan></text>
   </g>
 </svg>
